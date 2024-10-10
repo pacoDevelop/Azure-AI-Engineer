@@ -1,0 +1,1 @@
+pip install msal requests msgraph-core
